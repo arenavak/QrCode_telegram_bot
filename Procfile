@@ -1,2 +1,2 @@
-worker: python3 QrCode.py
+bot: python3 QrCode.py
 
